@@ -102,3 +102,9 @@ td, th {
 table {
     border-collapse: collapse;
 }
+
+video {
+    margin-bottom: 20px;
+    margin-left: 160px;
+    -moz-filter: grayscale(50%);
+}
